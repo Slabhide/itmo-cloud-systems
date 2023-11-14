@@ -74,7 +74,7 @@ kubectl get service hello-world-service
 ```
 
 Для проверки работы в браузере был открыт данный сайт:
-![img5](./img/img5.png)
+![img5](./img/img1.png)
 
 ## Вывод
 
