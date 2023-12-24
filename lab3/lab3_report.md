@@ -65,7 +65,7 @@ jobs:
 
 2. Проверим, запушился ли образ в Docker Hub:
 
-![2](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab3/image/2.jpg)
+![2](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab3/image/2.png)
 
 
 
