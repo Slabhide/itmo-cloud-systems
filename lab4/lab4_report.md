@@ -30,7 +30,7 @@ kubectl expose service prometheus-server --type=NodePort --target-port=9090 --na
 minikube service prometheus-server-np
 ```
 
-![1]
+![1](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab4/image/1.png)
 
 #### 2. Установка Grafana
 Добавлен репозиторий Grafana. 
@@ -52,13 +52,13 @@ kubectl expose service grafana --type=NodePort --target-port=3000 --name=grafana
 minikube service grafana-np
 ```
 
-![2]
+![2](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab4/image/2.png)
 
 #### 3. Настройка
 Далее произведена связка Grafana с Prometheus через Connections > Datasource.
 Результат.
 
-![3]
+![3](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab4/image/3.png)
 
 ## Вывод
 В ходе выполнения лабораторной работы были установлены и настроены сервисы Prometheos и Grafana, прилинкованы друг к другу для отображения данных кластера и создан на основе получаемых данных Dashboard. Во время выполнения работы проблем не возникло.
