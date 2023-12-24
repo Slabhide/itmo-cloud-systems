@@ -61,11 +61,11 @@ jobs:
 
 1. Выполнение сценария:
 
-![1]()
+![1](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab3/image/1.jpg)
 
 2. Проверим, запушился ли образ в Docker Hub:
 
-![2]()
+![2](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab3/image/2.jpg)
 
 
 
