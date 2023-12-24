@@ -1,0 +1,17 @@
+FROM python:3.8-slim
+
+MAINTAINER slabhide
+
+LABEL version='1.0'
+
+RUN apt-get update && \
+    apt-get install -y python3 && \
+    useradd -m slab
+
+USER slab
+
+COPY hello.py /home/hello.py
+
+WORKDIR /home
+
+ENTRYPOINT ["python3", "hello.py"]
