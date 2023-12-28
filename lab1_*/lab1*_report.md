@@ -91,16 +91,16 @@ volumes:
 
 #### Новый аргумент командной строки:
 
-![1]()
+![1](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab1_*/images/1.png)
 
 #### `docker-compose build`:
 
-![2]()
+![2](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab1_*/images/2.png)
 
 #### `docker-compose up`:
 
-![3]()
+![3](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab1_*/images/3.png)
 
 #### Записи в базе данных:
 
-![4]()
+![4](https://github.com/Slabhide/itmo-cloud-systems/blob/main/lab1_*/images/4.png)
